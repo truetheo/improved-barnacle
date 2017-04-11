@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">theoQuiz</string>
+    <string name="name">Please type your name</string>
+    <string name="introduction">Welcome! \nLet\'s play a little game&#8230; I have 4 questions for you. Give me correct answers! \nBut first tell me your name: </string>
+    <string name="question1">Question 1.</string>
+    <string name="question1_text">Lorem ipsum dolor sit amet mi ligula, semper tellus. Quisque.</string>
+    <string name="question1_a">Answer A.</string>
+    <string name="question1_b">Answer B.</string>
+    <string name="question1_c">Answer C.</string>
+    <string name="question2">Question 2.</string>
+    <string name="question2_text">Lorem ipsum dolor sit amet mi ligula, semper tellus. Quisque.</string>
+    <string name="question2_a">Answer A.</string>
+    <string name="question2_b">Answer B.</string>
+    <string name="question2_c">Answer C.</string>
+    <string name="question3">Question 3.</string>
+    <string name="question3_text">Lorem ipsum dolor sit amet mi ligula, semper tellus. Quisque.</string>
+    <string name="question3_answer">Type your answer here&#8230;</string>
+    <string name="question4">Question 4.</string>
+    <string name="question4_text">Lorem ipsum dolor sit amet mi ligula, semper tellus. Quisque.</string>
+    <string name="question4_a">Answer A.</string>
+    <string name="question4_b">Answer B.</string>
+    <string name="question4_c">Answer C.</string>
+    <string name="submit">I\'m done.</string>
+
+</resources>
